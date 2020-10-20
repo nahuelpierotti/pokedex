@@ -25,7 +25,7 @@ buscar_pokemon($conn,$criterio,$limpiar,$administrador);
 cerrar_conexion($conn);
 ?>
 </div>
-</body>
+
 <?php
 include_once ($ruta."footer.php");
 ?>

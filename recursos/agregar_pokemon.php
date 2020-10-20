@@ -54,4 +54,5 @@ $resultado=guardarNuevoPokemon($conn,
 </div>
 <?php
 cerrar_conexion($conn);
-require_once("footer.php");
+//include_once("footer.php");
+?>

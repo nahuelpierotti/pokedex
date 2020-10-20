@@ -20,16 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b00568df-1eb2-4f02-b273-e2e9f5ec13ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recursos/agregar_pokemon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/editar_pokemon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/pokemones/Alberto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/rutas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/borrar_pokemon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/pokedex201020.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/acero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/agua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/bicho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/electrico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/fantasma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/fuego.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/hada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/hielo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/lucha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/planta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/psiquico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/roca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/siniestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/tierra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/veneno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/tipos/volador.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/buscar_pokemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/detalle_pokemon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/agregar_pokemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/agregar_pokemon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/detalle_pokemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/detalle_pokemon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/editar_pokemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/editar_pokemon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursos/funciones.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/funciones.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/pokemones/Alberto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/rutas.php" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/rutas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursos/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +117,8 @@
       <workItem from="1602945584200" duration="1188000" />
       <workItem from="1602948660583" duration="10606000" />
       <workItem from="1603131731888" duration="15131000" />
-      <workItem from="1603157860874" duration="12812000" />
+      <workItem from="1603157860874" duration="13131000" />
+      <workItem from="1603217782489" duration="12413000" />
     </task>
     <servers />
   </component>
@@ -145,10 +165,10 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="339" y="87" key="NewPhpClassDialog/0.0.1024.728@0.0.1024.728" timestamp="1602433628812" />
-    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1603161003697">
+    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1603218302005">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1603161003697" />
+    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1603218302005" />
     <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603165393674">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
