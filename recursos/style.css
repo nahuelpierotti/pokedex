@@ -94,3 +94,12 @@ form.example::after {
     clear: both;
     display: table;
 }
+textarea {
+    resize: none;
+}
+.descripcion {
+    border: 2px outset darkgray;
+    text-align: center;
+    height: 30%;
+    width: 75%;
+}
